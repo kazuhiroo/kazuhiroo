@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋,
+<br><br>my name is Antoni Kątowski<br>I am currently studying Automation and Robotics...<br><br>...here u can find some of my ups and downs with programming and dynamic systems,<br>enjoy.
 
-<!--
-**kazuhiroo/kazuhiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dc:   discord.gg/kazuhiroo  
+Fb:  facebook.com/katowzki  
+Ig: instagram.com/katowzki
+@:     katowski.antoni@gmail.com
+
+
+# Tech Stack
+
+Languages:   C | C++ | Python | Matlab
+Libraries:   OpenCV | PyQt | NumPy | SciPy | Matplotlib
+Platforms:   Git | GitHub | GitLab | LaTeX | Trello
+
