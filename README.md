@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 👋
 <br>my name is Antoni Kątowski<br>
 I am currently studying Automation and Robotics...<br><br>
 ...here u can find some of my ups and downs with programming and dynamic systems,<br>
